@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+=== AI Low Power RAM Simulation Start ===
+Time=0 | Addr= 0 | WE=0 | DataOut=00 | PowerEff=  0%
+Time=15000 | Addr= 2 | WE=1 | DataOut=00 | PowerEff=  0%
+Time=25000 | Addr= 2 | WE=1 | DataOut=00 | PowerEff= 96%
+Time=45000 | Addr= 5 | WE=1 | DataOut=00 | PowerEff= 96%
+Time=95000 | Addr= 9 | WE=1 | DataOut=00 | PowerEff= 96%
+Time=105000 | Addr=10 | WE=1 | DataOut=00 | PowerEff= 96%
+Time=115000 | Addr= 2 | WE=0 | DataOut=00 | PowerEff= 96%
+Time=125000 | Addr= 5 | WE=0 | DataOut=00 | PowerEff= 96%
+Time=135000 | Addr=10 | WE=0 | DataOut=00 | PowerEff= 96%
+Time=165000 | Addr=10 | WE=0 | DataOut=00 | PowerEff= 84%
+=== Simulation Complete ===
+$finish called at time : 235 ns : File "C:/Users/sneha/OneDrive/Desktop/FinalYEarProject/AI_POM_RAM/AI_POM_RAM.srcs/sources_1/new/TB.v" Line 67

@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Oct 28 01:13:23 2025
+# Process ID: 61992
+# Current directory: C:/Users/sneha/OneDrive/Desktop/FinalYEarProject/AI_POM_RAM/AI_POM_RAM.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18016 C:\Users\sneha\OneDrive\Desktop\FinalYEarProject\AI_POM_RAM\AI_POM_RAM.sim\sim_1\behav\xsim\tb_AI_LowPower_RAM_behav.wdb
+# Log file: C:/Users/sneha/OneDrive/Desktop/FinalYEarProject/AI_POM_RAM/AI_POM_RAM.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/sneha/OneDrive/Desktop/FinalYEarProject/AI_POM_RAM/AI_POM_RAM.sim/sim_1/behav/xsim\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\sneha\OneDrive\Desktop\FinalYEarProject\AI_POM_RAM\AI_POM_RAM.sim\sim_1\behav\xsim\tb_AI_LowPower_RAM_behav.wdb}
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/vivado/Vivado/2021.1/data/ip'.
+current_fileset: Time (s): cpu = 00:00:07 ; elapsed = 00:00:06 . Memory (MB): peak = 1117.754 ; gain = 0.000
+open_wave_database: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1117.754 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 28 01:14:03 2025...
