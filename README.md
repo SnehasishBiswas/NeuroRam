@@ -40,5 +40,6 @@ Most Active Addresses =
      1     2     3     4     5     7     8     9    11    14    15    16
 Least Active (Gated) Addresses = 
      6    10    12    13
+<img width="1919" height="1022" alt="Screenshot 2025-10-28 012446" src="https://github.com/user-attachments/assets/ed0e0a37-e01b-4ab5-8449-a268ac565b38" />
 
-     <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/832e1df9-0ceb-4786-b7e3-208aeb960ca2" />
+   
